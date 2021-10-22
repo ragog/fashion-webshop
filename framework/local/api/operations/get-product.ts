@@ -1,7 +1,7 @@
 import type { LocalConfig } from '../index'
 import { Product } from '@commerce/types/product'
 import { GetProductOperation } from '@commerce/types/product'
-import data from '../../data.json'
+// import data from '../../data.json'
 import type { OperationContext } from '@commerce/api/operations'
 
 export default function getProductOperation({
